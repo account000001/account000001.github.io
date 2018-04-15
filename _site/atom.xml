@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Child Evangelism Team</title>
- <link href="http://scotch-io.github.io/atom.xml" rel="self"/>
- <link href="http://scotch-io.github.io/"/>
- <updated>2018-04-14T12:09:47-07:00</updated>
- <id>http://scotch-io.github.io</id>
+ <link href="http://account000001.github.io/atom.xml" rel="self"/>
+ <link href="http://account000001.github.io/"/>
+ <updated>2018-04-14T19:29:15-07:00</updated>
+ <id>http://account000001.github.io</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Child Evangelism Team</title>
-   <link href="http://scotch-io.github.io/ministry.html"/>
+   <link href="http://account000001.github.io/ministry.html"/>
    <updated>2018-04-14T06:26:34-07:00</updated>
-   <id>http://scotch-io.github.io/ministry</id>
+   <id>http://account000001.github.io/ministry</id>
    <content type="html">&lt;p&gt;Child Evangelism Team (CET) is a Bible-centered organization composed of born-again believers whose purpose is to evangelize boys and girls with the Gospel of the Lord Jesus Christ and to establish (disciple) them in the Word of God and in the local church for Christian living.&lt;/p&gt;
 
 </content>
