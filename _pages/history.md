@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: Hisory
+title: History
 permalink: /history/
 ---
 
