@@ -22,4 +22,5 @@ Children will learn: biblical principles, moral values, character qualities, res
 
 Will children be safe?
 CET has taken specific steps to insure the safety of every child. All camp workers have been carefully screened as required by the child protection policy of CET.
+
 <img src="gnc.jpg">
