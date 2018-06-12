@@ -1,3 +1,4 @@
 main:
     - { url: '/events', text: 'Events' }
     - { url: '/history', text: 'History' }
+    - { url: '/contact', text: 'Contact'  }
