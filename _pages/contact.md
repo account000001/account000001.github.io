@@ -8,4 +8,4 @@ P.O. Box 7830 Secretariat Post Office, Ibadan
 Phone Number +234 8023251050
 
 
-![Children Hall Elelu CET Camp ground](/path/to/elelucampwebsite.jpg){:class="img-responsive"}
+![Children Hall Elelu CET Camp ground](/path/to/featured.jpg){:class="img-responsive"}
